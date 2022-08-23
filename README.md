@@ -1,0 +1,14 @@
+# mione_plus-user 4.1.2 JZO54K 4.12.5 release-keys
+- manufacturer: xiaomi
+- platform: msm8660
+- codename: mione_plus
+- flavor: user
+- release: 4.1.2
+- id: JZO54K
+- incremental: 4.12.5
+- tags: release-keys
+- fingerprint: Xiaomi/mione_plus/mione_plus:4.1.2/JZO54K/4.12.5:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: mione_plus-user-4.1.2-JZO54K-4.12.5-release-keys
+- repo: xiaomi_mione_plus_dump
