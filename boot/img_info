@@ -1,0 +1,12 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+kernel_size=5248648
+ramdisk_size=772972
+base_addr=0x40200000
+kernel_offset=0x00008000
+ramdisk_offset=0x01200000
+tags_offset=0x00000100
+cmd_line='console=ttyHSL0,115200,n8 androidboot.hardware=qcom kgsl.mmutype=gpummu vmalloc=400M'
+board=""
+format=gzip
